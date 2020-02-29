@@ -1,0 +1,11 @@
+
+Public Class MyFirst
+
+{
+
+Public Static Void Main (String[]args)
+
+{
+System.out.println ("Hello Aum");
+}
+}
